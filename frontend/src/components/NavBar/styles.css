@@ -1,0 +1,41 @@
+header {
+    background-color: var(--color-primary);
+    color: var(--my-black);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.dsmovie-conteudo-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dsmovie-conteudo-nav h1 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.dsmovie-conteudo-nav a {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.dsmovie-contato-container {
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-contato-container p {
+    margin: 0 0 0 10px;
+}

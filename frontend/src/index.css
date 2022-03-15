@@ -2,6 +2,11 @@
 :root {
     --color-primary: #FFE734;
     --bg-gray: #ddd;
+    --white: #fff;
+    --text-gray: #4a4a4a;
+    --my-black: #231D19;
+    --text-cinza: #aaa;
+    --cor-estrela: #ffbb3a;
 }
 
 * {
